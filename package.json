@@ -17,10 +17,12 @@
     "url": "https://github.com/jorgetejeda/domi-storybook/issues"
   },
   "homepage": "https://github.com/jorgetejeda/domi-storybook#readme",
-  "devDependencies": {
-  }
   "peerDependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.21",
+    "typescript": "^4.8.4"
   }
 }

@@ -5,7 +5,7 @@
 ## Ingredients
 
 - [ ]  Setting up the library
-    - [ ]  Install React & ReactDOM
+    - [x]  Install React & ReactDOM
     - [ ]  Install Typescript & dependencies
         - [ ]  Config Typescript files
     - [ ]  Install Sass & dependencies
