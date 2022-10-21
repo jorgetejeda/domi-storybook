@@ -6,9 +6,9 @@
 
 - [ ]  Setting up the library
     - [x]  Install React & ReactDOM
-    - [ ]  Install Typescript & dependencies
-        - [ ]  Config Typescript files
-    - [ ]  Install Sass & dependencies
+    - [x]  Install Typescript & dependencies
+        - [x]  Config Typescript files
+    - [x]  Install Sass & dependencies
         - [ ]  Config Sass with Storybook
     - [ ]  Basic Folder Structure
     - [ ]  Install Storybook & dependencies
