@@ -10,8 +10,8 @@
         - [x]  Config Typescript files
     - [x]  Install Sass & dependencies
         - [ ]  Config Sass with Storybook
-    - [ ]  Basic Folder Structure
-    - [ ]  Install Storybook & dependencies
+    - [x]  Basic Folder Structure
+    - [x]  Install Storybook & dependencies
         - [ ]  Config Storybook files
     - [ ]  Create Our First Component
     - [ ]  Install Rollup & dependencies
